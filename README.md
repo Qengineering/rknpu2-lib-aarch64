@@ -1,5 +1,4 @@
-# rknpu2-lib-aarch64
-### rknpu2 aarch64 library<br>
+# rknpu2 aarch64 library
 If you only need the rknpu2 on your Rockchip board, you can download this repo instead of the HUGE rknn-toolkit2.<br>
 
 Use:
