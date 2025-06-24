@@ -5,9 +5,9 @@ If you only need the rknpu2 on your Rockchip board, you can download this repo i
 Use:
 ```script
 $ git clone https://github.com/Qengineering/rknpu2-lib-aarch64.git
-$ cd ~/rknn-toolkit2/rknpu2/runtime/Linux/librknn_api/aarch64
+$ cd ~/rknpu2-lib-aarch64/aarch64
 $ sudo cp ./librknnrt.so /usr/local/lib
-$ cd ~/rknn-toolkit2/rknpu2/runtime/Linux/librknn_api/include
+$ cd ~/rknpu2-lib-aarch64/include
 $ sudo cp ./rknn_* /usr/local/include
 ```
 
